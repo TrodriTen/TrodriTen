@@ -28,6 +28,21 @@
 </p>
 <br />
 
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Connect with me 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/tomasrodriguezpe%C3%B1a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:trodriguezpena@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=trodriguezpena@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<br />
+
 <!--Github stats Table--> 
 <h2 align="center">📊 Github Stats 📊</h2>
 
@@ -57,21 +72,6 @@
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrodriTen&bg_color=ffffff&color=000000&line=c792ea&point=572975&area=true&hide_border=false" border-radius="15">
-</div>
-
----
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Connect with me 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/tomasrodriguezpe%C3%B1a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:trodriguezpena@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=trodriguezpena@gmail.com mail style="margin-bottom: 5px;" />
-</a>
 </div>
 
 <!--Footer--> 
