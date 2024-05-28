@@ -24,7 +24,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and Tᴏᴏls</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,django,spring,postgres,mongo,git,vscode,postman,linux,anaconda,gcp,bash,rabbitmq,md,maven,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,django,spring,postgres,mongo,git,vscode,postman,linux,anaconda,gcp,bash,rabbitmq,md,maven,notion,jupyter&perline=10"  />
 </p>
 <br />
 
