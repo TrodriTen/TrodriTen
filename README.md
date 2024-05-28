@@ -35,6 +35,10 @@
  <a href="https://www.linkedin.com/in/tomasrodriguezpe%C3%B1a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+<a href="mailto:as.rozo@uniandes.edu.co" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=as.rozo@uniandes.edu.co mail style="margin-bottom: 5px;" />
+</a>
   
 <a href="mailto:trodriguezpena@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=trodriguezpena@gmail.com mail style="margin-bottom: 5px;" />
