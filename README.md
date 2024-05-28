@@ -5,17 +5,17 @@
 *Developer / Programmer*
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a Computer Science student and Machine Learning Enthusiast with a huge love for Python, Django, Java, SpringBoot, REST API and Data Visualization. </p>
+<!--Start Intro-->
+<p align="left">I am a Computer Science student at Universidad de los Andes, passionate about Machine Learning, Python, Django, Java, SpringBoot, REST APIs, and Data Visualization. </p>
 <div>
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 👨‍💻 &nbsp;I am Currently Working at Universidad de los Andes in Colombia as IT Teaching Assistant.
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓 &nbsp;I'm currently studying Computer Science at Universidad de los Andes
-- 🌱 &nbsp;I'm on track for learning more about cybersecurity, Microservice Based Architecture and Machine Learning.
-- ✉️ &nbsp;You can shoot me an [email](trodriguezpena@gmail.com)! I'll try to respond as soon as I can.
+- 👨‍💻 &nbsp;I currently work as an IT Teaching Assistant at Universidad de los Andes in Colombia.
+- 💡 &nbsp;I enjoy exploring new technologies and crafting software solutions and quick hacks.
+- 🎓 &nbsp;I study Computer Science, continually broadening my understanding of theoretical and practical aspects.
+- 🌱 &nbsp;I am focused on deepening my knowledge in Cybersecurity, Microservice Based Architecture, and Machine Learning.
+- ✉️ &nbsp;Feel free to reach out to me at [email](trodriguezpena@gmail.com); I'll respond as soon as possible.
 <!--End Intro-->
 
 ---
