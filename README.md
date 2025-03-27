@@ -19,8 +19,6 @@
 - 📫 &nbsp;Feel free to reach out to me at [email](mailto:trodriguezpena@gmail.com); I’ll be happy to connect!
 
 <!--End Intro-->
-
----
 <br />
 
 <!--Languages and Tools Section-->       
