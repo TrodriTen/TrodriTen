@@ -11,10 +11,10 @@
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 👨‍💻 &nbsp;I currently work as an IT Teaching Assistant at Universidad de los Andes in Colombia.
+- 👨‍💻 &nbsp;I currently work as a Teaching Assistant at Universidad de los Andes in Colombia.
 - 💡 &nbsp;I enjoy exploring new technologies and crafting software solutions and quick hacks.
-- 🎓 &nbsp;I study Computer Science, continually broadening my understanding of theoretical and practical aspects.
-- 🌱 &nbsp;I am focused on deepening my knowledge in Cybersecurity, Microservice Based Architecture, and Machine Learning.
+- 🎓 &nbsp;I’m currently in my 7th semester at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
+- 🌱 &nbsp;I am focused on deepening my knowledge in Cybersecurity and Machine Learning.
 - ✉️ &nbsp;Feel free to reach out to me at [email](trodriguezpena@gmail.com); I'll respond as soon as possible.
 <!--End Intro-->
 
@@ -24,7 +24,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and Tᴏᴏls</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,django,spring,postgres,mongo,git,vscode,postman,linux,anaconda,gcp,bash,rabbitmq,md,maven,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongo,git,postman,linux,anaconda,gcp,bash,md,notion&perline=10"  />
 </p>
 <br />
 
@@ -46,5 +46,3 @@
 </div>
 
 <br />
-
-------
