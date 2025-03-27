@@ -5,16 +5,19 @@
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Computer Science student at Universidad de los Andes, passionate about Machine Learning and CyberSecurity. </p>
+<p align="left">I am a Systems and Computing Engineering student at Universidad de los Andes, passionate about building scalable software solutions, exploring AI/ML, and enhancing cybersecurity practices. I’m also fascinated by optimization, federated learning, and microservices-based architectures.</p>
 <div>
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 👨‍💻 &nbsp;I currently work as a Teaching Assistant at Universidad de los Andes in Colombia.
-- 💡 &nbsp;I enjoy exploring new technologies and crafting software solutions and quick hacks.
-- 🎓 &nbsp;I’m currently in my 7th semester at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
-- 🌱 &nbsp;I am focused on deepening my knowledge in Cybersecurity and Machine Learning.
-- ✉️ &nbsp;Feel free to reach out to me at [email](trodriguezpena@gmail.com); I'll respond as soon as possible.
+- 🎓 &nbsp;I’m currently in my **7th semester** at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
+- 👨‍💻 &nbsp;**CTO at Atonga:** Leading the architectural design and development of scalable platforms, integrating FastAPI, PostgreSQL, and Flutter.
+- 🤖 &nbsp;Participated in high-impact competitions like **ULatin Hack (3rd place)** and the **AI Hackathon by DevSavant and Microsoft (Finalist)**.
+- 🔬 &nbsp;Currently involved in a **biomedical research project** with the **Biomedical Engineering Department** at Uniandes, applying ML models for the urology department of **Fundación Santa Fe de Colombia**.
+- 📚 &nbsp;I have served as a **Private Tutor** and **Teaching Assistant** in subjects like Transactional Systems, OOP, and Python at Uniandes.
+- 🌱 &nbsp;Currently improving my skills in **Neural Networks, Optimization Techniques, and Cybersecurity Practices**.
+- 📫 &nbsp;Feel free to reach out to me at [email](mailto:trodriguezpena@gmail.com); I’ll be happy to connect!
+
 <!--End Intro-->
 
 ---
