@@ -2,11 +2,10 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Tomas Rodriguez! 
-*Developer / Programmer*
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Computer Science student at Universidad de los Andes, passionate about Machine Learning, Python, Django, Java, SpringBoot, REST APIs, and Data Visualization. </p>
+<p align="left">I am a Computer Science student at Universidad de los Andes, passionate about Machine Learning and CyberSecurity. </p>
 <div>
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
