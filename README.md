@@ -10,11 +10,8 @@
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 🎓 &nbsp;I’m currently in my **7th semester** at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
-- 👨‍💻 &nbsp;**CTO at Atonga:** Leading the architectural design and development of scalable platforms, integrating FastAPI, PostgreSQL, and Flutter.
+- 🎓 &nbsp;I’m currently in my **8th semester** at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
 - 🤖 &nbsp;Participated in high-impact competitions like **ULatin Hack (3rd place)** and the **AI Hackathon by DevSavant and Microsoft (Finalist)**.
-- 🔬 &nbsp;Currently involved in a **biomedical research project** with the **Biomedical Engineering Department** at Uniandes, applying ML models for the urology department of **Fundación Santa Fe de Colombia**.
-- 📚 &nbsp;I have served as a **Private Tutor** and **Teaching Assistant** in subjects like Transactional Systems, OOP, and Python at Uniandes.
 - 🌱 &nbsp;Currently improving my skills in **Neural Networks, Optimization Techniques, and Cybersecurity Practices**.
 - 📫 &nbsp;Feel free to reach out to me at [email](mailto:trodriguezpena@gmail.com); I’ll be happy to connect!
 
