@@ -21,7 +21,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and Tᴏᴏls</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongo,git,postman,linux,anaconda,gcp,bash,md,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongo,git,postman,linux,gcp,bash,md&perline=10"  />
 </p>
 <br />
 
