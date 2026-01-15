@@ -5,12 +5,11 @@
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Systems and Computing Engineering student at Universidad de los Andes, passionate about building scalable software solutions, exploring AI/ML, and enhancing cybersecurity practices. I’m also fascinated by optimization, federated learning, and microservices-based architectures.</p>
+<p align="left">I am a Systems and Computing Engineering, passionate about building scalable software solutions, exploring AI/ML, and enhancing cybersecurity practices. I’m also fascinated by optimization, federated learning, and microservices-based architectures.</p>
 <div>
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 🎓 &nbsp;I’m currently in my **8th semester** at **Universidad de los Andes**, working towards mastering AI and Cybersecurity through hands-on projects.
 - 🤖 &nbsp;Participated in high-impact competitions like **ULatin Hack (3rd place)** and the **AI Hackathon by DevSavant and Microsoft (Finalist)**.
 - 🌱 &nbsp;Currently improving my skills in **Neural Networks, Optimization Techniques, and Cybersecurity Practices**.
 - 📫 &nbsp;Feel free to reach out to me at [email](mailto:trodriguezpena@gmail.com); I’ll be happy to connect!
