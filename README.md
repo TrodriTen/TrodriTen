@@ -5,14 +5,14 @@
 <br /> 
 
 <!--Start Intro-->
-<p align="left">I am a Systems and Computing Engineering, passionate about building scalable software solutions, exploring AI/ML, and enhancing cybersecurity practices. I’m also fascinated by optimization, federated learning, and microservices-based architectures.</p>
+<p align="left">I am a Systems and Computing Engineering, passionate about building scalable software solutions, exploring AI/ML, and enhancing cybersecurity practices. I’m also fascinated by optimization, GRC and defensive cybersecurity, and networking architecture.</p>
 <div>
   <img align="right" width="20%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
 
-- 🤖 &nbsp;Participated in high-impact competitions like **ULatin Hack (3rd place)** and the **AI Hackathon by DevSavant and Microsoft (Finalist)**.
-- 🌱 &nbsp;Currently improving my skills in **Neural Networks, Optimization Techniques, and Cybersecurity Practices**.
-- 📫 &nbsp;Feel free to reach out to me at [email](mailto:trodriguezpena@gmail.com); I’ll be happy to connect!
+- 🤖 &nbsp;Published two abstracts about AI in medical applications**.
+- 🌱 &nbsp;Currently improving my skills in **Cybersecurity Practices, Software Developmemt, and AI**.
+- 📫 &nbsp;Feel free to reach out to me at [web](https://web.trodriten.com); I’ll be happy to connect!
 
 <!--End Intro-->
 <br />
@@ -32,12 +32,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:t.rodriguezp@uniandes.edu.co" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=as.rozo@uniandes.edu.co mail style="margin-bottom: 5px;" />
+<a href="mailto:github@trodriten.com" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=contact@trodriten.com mail style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:trodriguezpena@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=trodriguezpena@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:github@trodriten.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=contact@trodriten.com mail style="margin-bottom: 5px;" />
 </a>
 </div>
 
